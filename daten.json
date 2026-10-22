@@ -1,0 +1,95 @@
+{
+  "firma": "Dennis König Garten- und Landschaftsbau",
+  "stelle": "Vorarbeiter GaLaBau (m/w/d)",
+  "ort": "Heikendorf",
+  "plz": "24226",
+  "branche": "galabau",
+  "farbe_primary": "#10351D",
+  "farbe_secondary": "#B49A6A",
+  "region_badge": "Heikendorf & Umgebung",
+  "benefit_top": "4-Tage-Woche möglich",
+  "benefits": [
+    "4-Tage-Woche möglich",
+    "Voll ausgestatteter Firmenwagen",
+    "Keine Montageeinsätze mit Übernachtung",
+    "Flache Hierarchien",
+    "Freundliches Arbeitsklima",
+    "Getränke-Flatrate"
+  ],
+  "aufgaben": [
+    "Du bearbeitest die Projekte vor Ort eigenständig – Baustellen im Kieler Umland, vor allem Privatgärten",
+    "Du arbeitest aktiv mit und bedienst Baumaschinen und Kleingeräte",
+    "Du leitest die Kollegen vor Ort an",
+    "Du führst das Bautagebuch"
+  ],
+  "anforderung": "Erfahrung als Vorarbeiter im GaLaBau, Führerschein Klasse B, einsatzbereit und zuverlässig. Ambitionierte Berufsanfänger fördert der Betrieb gern.",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "Garten- und Landschaftsbau",
+      "icon": "🌳",
+      "qualifikationen": [
+        {
+          "label": "Erfahrung als Vorarbeiter",
+          "icon": "👷"
+        },
+        {
+          "label": "Ausgebildeter Landschaftsgärtner",
+          "icon": "🎓"
+        },
+        {
+          "label": "Meister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Berufsanfänger mit Ausbildung",
+          "icon": "🌱"
+        }
+      ]
+    },
+    {
+      "label": "Anderer Bereich",
+      "icon": "🔄",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung in anderem Beruf",
+          "icon": "📘"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        }
+      ]
+    }
+  ],
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "2020",
+        "label": "gegründet"
+      },
+      {
+        "zahl": "✓",
+        "label": "Meisterbetrieb"
+      },
+      {
+        "zahl": "✓",
+        "label": "Privatgärten"
+      }
+    ],
+    "text": "Dennis König Garten- und Landschaftsbau ist ein junger Meisterbetrieb aus Heikendorf bei Kiel, gegründet 2020. Das kleine, eingespielte Team gestaltet Privatgärten in Kiel, Heikendorf und Umgebung – von Pflaster- und Belagsarbeiten über Terrassen und Auffahrten bis zur kompletten Gartenneugestaltung. Leitsatz: Experten statt Experimente."
+  },
+  "kunde_tab": "31 Dennis König GaLaBau",
+  "quelle": "https://koenig-galabau.green-careers.de",
+  "logo": "logo.png",
+  "karte": {
+    "bild": "img/karte.jpg",
+    "label": "Heikendorf"
+  },
+  "hero_bild": "img/hero-chef-lkw.jpg",
+  "bilder": [
+    "img/f1-chef-lkw-nah.jpg",
+    "img/f2-chef-lkw.jpg",
+    "img/f3-garten-mauer.jpg"
+  ]
+}
